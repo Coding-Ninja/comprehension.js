@@ -1,0 +1,28 @@
+{
+  "name": "comprehension",
+  "version": "1.0.0",
+  "description": "just some stupid experiment",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-ninja/comprehension.js.git"
+  },
+  "keywords": [
+    "test",
+    "python",
+    "comprehension"
+  ],
+  "author": "Zen Master",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coding-ninja/comprehension.js/issues"
+  },
+  "homepage": "https://github.com/coding-ninja/comprehension.js#readme",
+  "devDependencies": {
+    "chai": "^4.3.3",
+    "mocha": "^8.3.1"
+  }
+}
