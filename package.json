@@ -23,6 +23,6 @@
   "homepage": "https://github.com/coding-ninja/comprehension.js#readme",
   "devDependencies": {
     "chai": "^4.3.3",
-    "mocha": "^8.3.1"
+    "mocha": "^10.1.0"
   }
 }
